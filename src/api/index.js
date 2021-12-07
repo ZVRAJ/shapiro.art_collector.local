@@ -1,5 +1,5 @@
 export const BASE_URL = 'https://api.harvardartmuseums.org';
-export const KEY = 'apikey=fe1bd050-ac49-4260-a17d-968ca78c0f93';
+export const KEY = 'apikey=45f0ccdc-cb1b-41e4-aaea-fa5823edcacf';
 
 export async function fetchQueryResultsFromTermAndValue(term, value) {
 	try {
